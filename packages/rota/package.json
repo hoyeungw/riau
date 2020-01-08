@@ -1,6 +1,6 @@
 {
   "name": "rota",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "abeo": "^0.0.2",
+    "abeo": "^0.0.3",
     "borel": "^0.1.11"
   },
   "gitHead": "75b05b1e5340dcc9c49f35119fc2df575c64955d"
