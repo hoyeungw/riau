@@ -12,5 +12,6 @@
   "dependencies": {
     "abeo": "^0.0.1",
     "borel": "^0.1.11"
-  }
+  },
+  "gitHead": "359b3af48a2eb9f942452950debf559427ee98ce"
 }
