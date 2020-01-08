@@ -1,0 +1,16 @@
+{
+  "name": "lino",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abeo": "^0.0.1",
+    "borel": "^0.1.11"
+  }
+}
